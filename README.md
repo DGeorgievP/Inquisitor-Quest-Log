@@ -1,0 +1,1 @@
+# Inquisitor-Quest-Log
