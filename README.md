@@ -1,6 +1,6 @@
 # Inquisitor Quest Log
 
-![Inquisitor Quest Log Logo](./src/assets/inquisitor-logo.jpg)
+![Inquisitor Quest Log Logo](./inquisitor-quest-log//src/assets/inquisitor-logo.jpg)
 
 ## Overview
 
